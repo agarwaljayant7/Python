@@ -19,3 +19,6 @@ print("data type of variable i1: ", type(i1))
 print("data type of variable i: ", type(i))
 print("data type of variable f: ", type(f))
 print("data type of variable c: ", type(c))
+
+keyboard = input("Enter the type of the keyboard: ")
+print(keyboard)
